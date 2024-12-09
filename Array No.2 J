@@ -14,7 +14,7 @@ int main() {
 
     average = (float)sum / n;
 
-    cout << "Rata-rata dari elemen array adalah: " << average << endl;
+    cout << "Rata-rata: " << average << endl;
 
     return 0;
 }
