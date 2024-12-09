@@ -8,7 +8,6 @@ int main() {
     int sum = 0;
     float average;
 
-    // Menghitung jumlah semua elemen
     for (int i = 0; i < n; i++) {
         sum += arr[i];
     }
